@@ -3,7 +3,8 @@
 a Docker-based FTP server for accumulating files from a LOGR-S Solar Data Logger. this tool
 is a derivative of the original created by Andrew Stilliard (see [credits](#credits) for more info).
 
-__note this requires that Docker is installed on your computer: https://docs.docker.com/get-docker/__
+__note this requires that Docker https://docs.docker.com/get-docker/ 
+and GIT https://git-scm.com/download are installed on your computer__
 
 ## build it
 
